@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ecommerce_app_backend.Controllers.HomeController",
+    "Method": "APIOne",
+    "RelativePath": "v1/Home/APIOne",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

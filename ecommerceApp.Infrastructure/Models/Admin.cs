@@ -10,11 +10,10 @@ namespace ecommerceApp.Infrastructure.Models
 {
     public class Admin
     {
-        [Key]
-        
+        [Key]        
         public int Aid{ get; set; }
+        [ForeignKey("Uid")]
         public string Uid { get; set; }
-
         public virtual User User { get; set; }
     }
 }

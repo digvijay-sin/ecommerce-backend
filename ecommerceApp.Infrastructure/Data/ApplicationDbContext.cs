@@ -14,7 +14,7 @@ namespace ecommerceApp.Infrastructure.Data
         {
             
         }
-
+        
         DbSet<Admin> Admins { get; set; }
         DbSet<Customer> Cutomers{ get; set; }
         DbSet<User> Users { get; set; }

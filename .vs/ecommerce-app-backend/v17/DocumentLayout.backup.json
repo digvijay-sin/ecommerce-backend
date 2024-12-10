@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\ecommerce-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\ecommerce-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,40 +63,16 @@
       "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\ecommerce-app-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\ecommerce-app-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\ecommerce-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\ecommerce-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{692EA128-FCF2-4E43-B059-C7EE36EED68C}|ecommerce-app-backend\\ecommerce-app-backend.csproj|solutionrelative:ecommerce-app-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\appsettings.json||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\appsettings.json||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|d:\\.net\\react and .net projects\\ecommerce application\\ecommerce-app-backend\\ecommerceapp.infrastructure\\migrations\\20241205124120_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8716A-9C14-4D62-9E23-813EE00E3449}|ecommerceApp.Infrastructure\\ecommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\migrations\\20241205124120_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,148 +86,81 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ecommerce-app-backend\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ecommerce-app-backend\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:49:18.466Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ecommerce-app-backend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ecommerce-app-backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T12:21:30.936Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "ecommerce-app-backend\\appsettings.json",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.json",
+              "RelativeToolTip": "ecommerce-app-backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T06:40:38.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ecommerceApp.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:29:12.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\UserRole.cs",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\UserRole.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\UserRole.cs",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T10:27:55.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T06:29:12.483Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Role.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Role.cs",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Role.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T06:12:22.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\User.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\User.cs",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:44:43.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Seller.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Seller.cs",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Seller.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvxAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:24:50.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ecommerce-app-backend\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ecommerce-app-backend\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T11:20:59.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\appsettings.json",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\appsettings.json",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\appsettings.json",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T06:43:03.372Z"
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ecommerce-app-backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ecommerce-app-backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:05:15.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Customer.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Customer.cs",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Customer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:30:39.249Z",
+              "WhenOpened": "2024-11-28T06:37:21.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Admin.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Admin.cs",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Admin.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:34:38.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "libman.json",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\libman.json",
-              "RelativeDocumentMoniker": "ecommerce-app-backend\\libman.json",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\libman.json",
-              "RelativeToolTip": "ecommerce-app-backend\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T07:42:39.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "ecommerce-app-backend.http",
               "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\ecommerce-app-backend.http",
               "RelativeDocumentMoniker": "ecommerce-app-backend\\ecommerce-app-backend.http",
@@ -231,15 +172,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DbContextFactory.cs",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\Data\\DbContextFactory.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ecommerce-app-backend\\appsettings.Development.json",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.Development.json",
+              "RelativeToolTip": "ecommerce-app-backend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T12:21:06.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241205124120_Initial.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Migrations\\20241205124120_Initial.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Migrations\\20241205124120_Initial.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Migrations\\20241205124120_Initial.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Migrations\\20241205124120_Initial.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:37:21.028Z"
+              "WhenOpened": "2024-12-05T12:41:20.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Customer.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Customer.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:30:39.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Role.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Role.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:12:22.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\UserRole.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\UserRole.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\UserRole.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:27:55.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Admin.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Admin.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Admin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:34:38.724Z"
             },
             {
               "$type": "Document",
@@ -249,33 +250,57 @@
               "RelativeDocumentMoniker": "ecommerce-app-backend\\Program.cs",
               "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\Program.cs",
               "RelativeToolTip": "ecommerce-app-backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T07:09:46.366Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\User.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\User.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:44:43.488Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.json",
-              "RelativeDocumentMoniker": "ecommerce-app-backend\\appsettings.json",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\appsettings.json",
-              "RelativeToolTip": "ecommerce-app-backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T06:40:38.593Z"
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\Models\\Seller.cs",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\Models\\Seller.cs",
+              "RelativeToolTip": "ecommerceApp.Infrastructure\\Models\\Seller.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvw4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:24:50.576Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\appsettings.json",
-              "RelativeDocumentMoniker": "ecommerceApp.Infrastructure\\appsettings.json",
-              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerceApp.Infrastructure\\appsettings.json",
-              "RelativeToolTip": "ecommerceApp.Infrastructure\\appsettings.json",
+              "Title": "ecommerce-app-backend.csproj",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\ecommerce-app-backend.csproj",
+              "RelativeDocumentMoniker": "ecommerce-app-backend\\ecommerce-app-backend.csproj",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\ecommerce-app-backend.csproj",
+              "RelativeToolTip": "ecommerce-app-backend\\ecommerce-app-backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T11:00:41.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\libman.json",
+              "RelativeDocumentMoniker": "ecommerce-app-backend\\libman.json",
+              "ToolTip": "D:\\.NET\\React And .NET Projects\\Ecommerce Application\\ecommerce-app-backend\\ecommerce-app-backend\\libman.json",
+              "RelativeToolTip": "ecommerce-app-backend\\libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T06:41:09.809Z"
+              "WhenOpened": "2024-11-28T07:42:39.43Z"
             }
           ]
         }

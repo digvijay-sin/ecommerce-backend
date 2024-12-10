@@ -1,0 +1,16 @@
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.csproj.AssemblyReference.cache
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.AssemblyInfoInputs.cache
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.AssemblyInfo.cs
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.csproj.CoreCompileInputs.cache
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.sourcelink.json
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\bin\Debug\net8.0\ecommerceApp.Application.deps.json
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\bin\Debug\net8.0\ecommerceApp.Application.dll
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\bin\Debug\net8.0\ecommerceApp.Application.pdb
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\bin\Debug\net8.0\ecommerceApp.Infrastructure.dll
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\bin\Debug\net8.0\ecommerceApp.Infrastructure.pdb
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerc.DF4D8605.Up2Date
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.dll
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\refint\ecommerceApp.Application.dll
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ecommerceApp.Application.pdb
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Application\obj\Debug\net8.0\ref\ecommerceApp.Application.dll

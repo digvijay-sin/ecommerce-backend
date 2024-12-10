@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "ecommerce_app_backend.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ecommerce_app_backend.Controllers.HomeController",
     "Method": "APIOne",
     "RelativePath": "v1/Home/APIOne",

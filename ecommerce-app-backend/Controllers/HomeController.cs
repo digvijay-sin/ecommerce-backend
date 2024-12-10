@@ -7,8 +7,8 @@ namespace ecommerce_app_backend.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
-        [HttpGet("[action]")]
-        public IActionResult APIOne() {
+        [HttpGet("[action]")] 
+        public async Task<IActionResult> Index() {
             return Ok();
         }
     }

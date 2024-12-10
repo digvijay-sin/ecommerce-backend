@@ -1,0 +1,12 @@
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\bin\Debug\net8.0\ecommerceApp.Domain.deps.json
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\bin\Debug\net8.0\ecommerceApp.Domain.dll
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\bin\Debug\net8.0\ecommerceApp.Domain.pdb
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ecommerceApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ecommerceApp.Domain.AssemblyInfoInputs.cache
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ecommerceApp.Domain.AssemblyInfo.cs
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ecommerceApp.Domain.csproj.CoreCompileInputs.cache
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ecommerceApp.Domain.sourcelink.json
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ecommerceApp.Domain.dll
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\refint\ecommerceApp.Domain.dll
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ecommerceApp.Domain.pdb
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerceApp.Domain\obj\Debug\net8.0\ref\ecommerceApp.Domain.dll

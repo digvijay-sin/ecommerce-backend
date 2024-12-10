@@ -20,13 +20,18 @@ namespace ecommerceApp.Infrastructure.Data
         {
             string basePath = Directory.GetCurrentDirectory();
 
+            string path = Path.Join(basePath, @"..\ecommerce-app-backend\");
+
+            System.Diagnostics.Debug.WriteLine(basePath);
+
+
             var builder = new ConfigurationBuilder()
                  .Add(new JsonConfigurationSource
                  {
                      Path = "appsettings.json",
                      Optional = true,
                      ReloadOnChange = true,
-                     FileProvider = new PhysicalFileProvider(basePath)
+                     FileProvider = new PhysicalFileProvider(path)
                  });
 
             var configuration = builder.Build();

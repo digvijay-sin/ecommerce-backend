@@ -9,13 +9,8 @@ using System.Threading.Tasks;
 
 namespace ecommerceApp.Infrastructure.Models
 {
-    public class Seller
-    {
-        [Key]        
-        public int Sid { get; set; }
-        public string Uid { get; set; }
-        [ForeignKey("Uid")]
-        public virtual User User{ get; set; }
+    public class Seller : User
+    {        
         public string FullName { get; set; }
         public string DisplayName { get; set; }
         public string GSTINNumber{ get; set; }

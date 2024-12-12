@@ -12,9 +12,9 @@ namespace ecommerceApp.Infrastructure.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public string Uid{ get; set; }
+        public string Uid { get; set; }
         public DateTime UpdatedAt { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
-        public virtual ICollection<UserRole> UserRoles { get; set; } = new HashSet<UserRole>();
+        //public virtual ICollection<UserRole> UserRoles { get; set; } = new HashSet<UserRole>();
     }
 }

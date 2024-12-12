@@ -22,37 +22,55 @@ namespace ecommerceApp.Infrastructure.Data
 
         protected  override void OnModelCreating(ModelBuilder modelBuilder) {
 
-            modelBuilder.Entity<User>()
-               .HasMany(u => u.UserRoles)
-               .WithOne(ur => ur.User)
-               .HasForeignKey(ur => ur.Uid)
-               .OnDelete(DeleteBehavior.Cascade);
+            //modelBuilder.Entity<User>()
+            //   .HasMany(u => u.UserRoles)
+            //   .WithOne(ur => ur.User)
+            //   .HasForeignKey(ur => ur.Uid)
+            //   .OnDelete(DeleteBehavior.Cascade);
 
-            modelBuilder.Entity<Role>()
-                .HasMany(r => r.UserRoles)
-                .WithOne(ur => ur.Role)
-                .HasForeignKey(ur => ur.RoleId)
-                .OnDelete(DeleteBehavior.Cascade);
+            //modelBuilder.Entity<Role>()
+            //    .HasMany(r => r.UserRoles)
+            //    .WithOne(ur => ur.Role)
+            //    .HasForeignKey(ur => ur.Rid)                
+            //    .OnDelete(DeleteBehavior.Cascade);
 
 
-            modelBuilder.Entity<Seller>()
-                .HasOne(s => s.User)
-                .WithOne()
-                .HasForeignKey<Seller>(s => s.Uid)
-                .OnDelete(DeleteBehavior.Cascade);
+            //modelBuilder.Entity<Seller>()
+            //    .HasOne(s => s.User)
+            //    .WithOne()
+            //    .HasForeignKey<Seller>(s => s.Uid)
+            //    .OnDelete(DeleteBehavior.Cascade);
 
-            modelBuilder.Entity<Customer>()
-                .HasOne(c => c.User)
-                .WithOne()
-                .HasForeignKey<Customer>(c => c.Uid)
-                .OnDelete(DeleteBehavior.Cascade);
+            //modelBuilder.Entity<Customer>()
+            //    .HasOne(c => c.User)
+            //    .WithOne()
+            //    .HasForeignKey<Customer>(c => c.Uid)
+            //    .OnDelete(DeleteBehavior.Cascade);
 
-            modelBuilder.Entity<Admin>()
-                .HasOne(a => a.User)
-                .WithOne()
-                .HasForeignKey<Admin>(a => a.Uid)
-                .OnDelete(DeleteBehavior.Cascade);
+            //modelBuilder.Entity<Admin>()
+            //    .HasOne(a => a.User)
+            //    .WithOne()
+            //    .HasForeignKey<Admin>(a => a.Uid)
+            //    .OnDelete(DeleteBehavior.Cascade);
+
+            //modelBuilder.Entity<Role>().
+            //    Property(r => r.Rid)
+            //    .HasDefaultValueSql("NEWID()");
+
+            modelBuilder.Entity<User>().ToTable("Users");
+            
+            modelBuilder.Entity<Customer>().ToTable("Customers");
+
+            modelBuilder.Entity<Seller>().ToTable("Sellers");
+
+            modelBuilder.Entity<Admin>().ToTable("Admins");
+
+            modelBuilder.Entity<Customer>(b => b.HasBaseType<User>());
+
+            modelBuilder.Entity<Seller>(b => b.HasBaseType<User>());
+
+            modelBuilder.Entity<Admin>(b => b.HasBaseType<User>());
+
         }
-
     }
 }

@@ -91,3 +91,8 @@ D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecom
 D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\bin\Debug\net8.0\ecommerceApp.Infrastructure.dll
 D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\bin\Debug\net8.0\ecommerceApp.Application.pdb
 D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\bin\Debug\net8.0\ecommerceApp.Infrastructure.pdb
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\bin\Debug\net8.0\ecommerce-app-backend.staticwebassets.endpoints.json
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\obj\Debug\net8.0\ecommerce-app-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\obj\Debug\net8.0\staticwebassets\msbuild.ecommerce-app-backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.NET\React And .NET Projects\Ecommerce Application\ecommerce-app-backend\ecommerce-app-backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

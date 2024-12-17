@@ -8,7 +8,9 @@ namespace ecommerceApp.Domain.UseCases
 {
     public interface IUnitOfWork
     {
-
+        public void SaveChanges() { 
+            
+        }
     }
 }
       

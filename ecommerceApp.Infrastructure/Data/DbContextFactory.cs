@@ -24,7 +24,7 @@ namespace ecommerceApp.Infrastructure.Data
 
             System.Diagnostics.Debug.WriteLine(basePath);
 
-
+                                                                                                                                                                                                
             var builder = new ConfigurationBuilder()
                  .Add(new JsonConfigurationSource
                  {
@@ -33,11 +33,11 @@ namespace ecommerceApp.Infrastructure.Data
                      ReloadOnChange = true,
                      FileProvider = new PhysicalFileProvider(path)
                  });
-
+                                                                                                                                                                            
             var configuration = builder.Build();
 
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-
+ 
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("default"));
 
             return new ApplicationDbContext(optionsBuilder.Options);

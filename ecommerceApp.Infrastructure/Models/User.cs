@@ -8,13 +8,15 @@ using System.Threading.Tasks;
 
 namespace ecommerceApp.Infrastructure.Models
 {
+  
     public class User
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string Uid { get; set; }
         public DateTime UpdatedAt { get; set; }
-        public DateTime CreatedAt { get; set; } = DateTime.Now;
-        //public virtual ICollection<UserRole> UserRoles { get; set; } = new HashSet<UserRole>();
+        public DateTime CreatedAt { get; set; } = DateTime.Now;    
+        public string Role { get; set; } // Customer, Seller, Admin
+
     }
 }

@@ -9,12 +9,16 @@ using System.Threading.Tasks;
 
 namespace ecommerceApp.Infrastructure.Models
 {
-    public class Seller : User
-    {        
+    public class Seller 
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        public string Uid { get; set; }
         public string FullName { get; set; }
         public string DisplayName { get; set; }
         public string GSTINNumber{ get; set; }
         public string MobileNumber{ get; set; }
+        public string PickupAddress { get; set; }
 
     }
 }

@@ -14,6 +14,7 @@ namespace ecommerceApp.Infrastructure.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string Uid { get; set; }
+        public User User { get; set; }
         public string FullName { get; set; }
         public string DisplayName { get; set; }
         public string GSTINNumber{ get; set; }

@@ -13,7 +13,10 @@ namespace ecommerceApp.Infrastructure.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string Uid { get; set; }
+        public User User { get; set; }
         public string Name  { get; set; }
         public string MobileNumber{ get; set; }
+        public string? ContactInformation { get; set; }
+        public string? Region { get; set; }
     }
 }
